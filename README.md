@@ -27,7 +27,7 @@ This repository contains a collection of medical image analysis applications dev
 
 ## Datasets
 
-- **Tumor**: The Tumor dataset can be accessed and downloaded [here](https://drive.google.com/drive/folders/1XrMfQ1eecrTzn1neRp2dgRMLjnOKfQej?usp=sharing).
+- **Tumor**: The Tumor dataset can be accessed and downloaded [here](https://drive.google.com/drive/folders/1AFRg1WKQC8QmA8y65oZz0jWDREpIar6Y?usp=sharing).
 - **Fracture**: The fracture dataset can be accessed and downloaded [here](https://drive.google.com/drive/folders/1-BXIftfH2ChhtsdAWeqtFMiy9BdpgFcc?usp=drive_link).
 - **Pneumonia**: The pneumonia dataset can be accessed and downloaded [here](https://drive.google.com/drive/folders/1-3ipAqlXQAIGvyvP7STqjZtDfHgsilRB?usp=drive_link).
 
