@@ -6,7 +6,9 @@ This repository contains a collection of medical image analysis applications dev
 
 - `css/`: Contains CSS files for styling the Streamlit web application.
 - `Datasets/`: Folder for storing datasets used for model training and testing.
-- `Models/`: Directory for storing pre-trained models for medical image analysis.(Download saved Models from Drive link inside this folder.)
+- `Models/`: Directory for storing pre-trained models for medical image analysis.
+    - **Download Saved Models**: Download the pre-trained models from this [Google Drive link](https://drive.google.com/drive/folders/1XrMfQ1eecrTzn1neRp2dgRMLjnOKfQej?usp=drive_link) and place them inside this folder.
+- 
 - `pages/`: Additional pages for the Streamlit application.
 - `Train_Models_Notebookfile/`: Notebooks used for model training and experimentation.
 - `Tumor/`: Contains resources and tumor dataset specifically for tumor analysis and classification.
