@@ -1,0 +1,2 @@
+Requirement already satisfied: absl-py in d:\streamlit project\venv\lib\site-packages (0.15.0)
+Requirement already satisfied: six in d:\streamlit project\venv\lib\site-packages (from absl-py) (1.15.0)

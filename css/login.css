@@ -1,0 +1,66 @@
+/* styles.css */
+[data-testid="collapsedControl"] {
+    display: none
+}
+
+[data-testid="stAppViewContainer"] >.main {
+    background-image: url("https://img.freepik.com/premium-photo/flat-lay-blank-desk-with-accessories-business-motivation-inspiration-concepts-ideas_254791-2209.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+footer {
+    visibility: hidden;
+}
+
+footer:after {
+    content: 'Made By Meet Patel';
+    visibility: visible;
+    color: black;
+    padding: 10px;
+}
+
+.css-1y4p8pa {
+    width: 100%;
+    padding: 7rem 11rem 2rem;
+    max-width: 50rem;
+}
+
+.css-5uatcg:hover {
+    border-color: #02ab21;
+    color: #02ab21;
+}
+.css-5uatcg:focus {
+    box-shadow: #02ab21 0px 0px 0px 0rem;
+    outline: none;
+}
+.css-5uatcg:focus:not(:active) {
+    border-color: #02ab21;
+    color: #02ab21;
+}
+
+
+[id="login-page"] {
+    color: black;
+    text-align: center;
+    padding: 1.5rem 0px 2.5rem;
+}
+
+[data-testid="stHeader"] {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.css-1yy6isu p {
+    word-break: break-word;
+    font-size: 18px;
+    color: black;
+}
+
+[data-testid="stToolbar"] {
+    right: 2rem;
+}
+
+[data-testid="StyledLinkIconContainer"] {
+    align: center;
+}

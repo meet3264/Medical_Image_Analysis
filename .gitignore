@@ -1,0 +1,9 @@
+venv
+attrition.py
+Customer_Segmentation.py
+Models/Attrition.pkl
+Tumor/
+Models/
+Datasets/archive.zip
+Datasets/Tumor.zip
+Datasets/hotel.csv

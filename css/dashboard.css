@@ -1,0 +1,59 @@
+[data-testid="stAppViewContainer"] >.main{
+    background-image: url("https://img.freepik.com/free-photo/top-view-medical-desk-composition-with-copy-space_23-2148502942.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    # background-attachment:local;
+    # opacity:0.7;
+}
+footer {
+    visibility: hidden;
+}
+
+[data-testid="stSidebarNav"] {
+            display: none
+}
+.css-e3xfei {
+    padding: 5rem 1rem 1.5rem;
+}
+.css-1offfwp li {
+    margin: 0.2em 0px 0.2em 1.2em;
+    padding: 0px 0px 0px 0.6em;
+    font-size: 1.1rem;
+}
+.css-po3vlj {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: #FFDAB9;
+    border-radius: 0.25rem;
+    color: rgb(49, 51, 63);
+}
+.css-1x8cf1d:hover {
+    border-color: #02ab21;
+    color: #02ab21;
+}
+.css-1x8cf1d:focus {
+    box-shadow: #02ab21 0px 0px 0px 0rem;
+    outline: none;
+}
+.css-1x8cf1d:focus:not(:active) {
+    border-color: #02ab21;
+    color: #02ab21;
+}
+p, ol, ul, dl {
+    margin: 0px 0px 1rem;
+    padding: 0px;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+[data-testid="stHeader"]{
+background-color:rgba(0,0,0,0);
+}
+[data-testid="stToolbar"]{
+right:2rem;
+}
+[data-testid="StyledLinkIconContainer"]{
+align:center;
+}
